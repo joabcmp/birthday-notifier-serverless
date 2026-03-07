@@ -5,5 +5,12 @@
     "status": "SENT",
     "error_message": null,
     "created_at": "2026-03-06T19:17:16-03:00"
+  },
+  {
+    "aniversariante_id": 32,
+    "notified_date": "2026-03-07",
+    "status": "SENT",
+    "error_message": null,
+    "created_at": "2026-03-07T08:30:56-03:00"
   }
 ]
